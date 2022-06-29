@@ -1,1 +1,1 @@
-1. https://marina2609-css-mem-slider.netlify.app/
+https://marina2609-vertical-slider.netlify.app/
