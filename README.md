@@ -4,7 +4,6 @@
 4. news API: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/news-api/
 5. christmas: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/christmas-task-part2/christmas/
 6. artquiz: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/art-quiz/
-7. museum: https://rolling-scopes-school.github.io/marina2609-JSFEPRESCHOOL/museum/
 
 ### Cсылки на командные проекты:
 
