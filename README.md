@@ -4,6 +4,8 @@
 4. news API: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/news-api/
 5. christmas: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/christmas-task-part2/christmas/
 6. artquiz: https://rolling-scopes-school.github.io/marina2609-JSFE2021Q3/art-quiz/
+7. react forms: https://marina2609-react-forms.netlify.app/
+8. rick and morty API: https://marina2609-custom-app-state.netlify.app/
 
 ### Cсылки на командные проекты:
 
